@@ -1,0 +1,11 @@
+commit adcd931f13a78c5df3335c6626e49baf3570d54f
+Author: unknown <atanasovski.antonio@students.finki.ukim.mk>
+Date:   Wed Mar 7 18:54:28 2018 +0100
+
+    modify l1.txt
+
+commit d2caf2c525de185221c36ef12992e4cc05e2adcd
+Author: unknown <atanasovski.antonio@students.finki.ukim.mk>
+Date:   Wed Mar 7 18:42:48 2018 +0100
+
+    Initial commit
